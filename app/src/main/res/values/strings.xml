@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Parcial2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="MensajeFragmento1">Hola Bienvenido a nuestra App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="MensajeFragmento2">Es un placer servirle</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="MensajeFragmento3">Visite nuestras sucursales</string>
+    <string name="btn1">Nuestros Saludos</string>
+    <string name="btn2">GitHub</string>
+    <string name="txt1">
+        <a href="http://www.GitHub.com">Enlazar a GitHub</a>
+    </string>
+    <string name="welcome">Bienvenidos a Nuestra App</string>
+
+</resources>

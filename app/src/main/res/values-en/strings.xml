@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Parcial2</string>
+    <string name="MensajeFragmento1">Hello welcome to our app</string>
+    <string name="MensajeFragmento2">It is a pleasure to serve you</string>
+    <string name="MensajeFragmento3">Visit our branches</string>
+    <string name="btn1">Our Greetings</string>
+    <string name="txt1">"         <a href="http://www.GitHub.com">Link to GitHub</a>     "
+    </string>
+    <string name="btn2">GitHub</string>
+    <string name="welcome">Welcome to our App</string>
+</resources>
